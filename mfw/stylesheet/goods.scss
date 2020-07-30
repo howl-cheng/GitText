@@ -1,0 +1,252 @@
+@charset "utf-8";
+
+.drop-toggle:hover .icon-creat-down{
+    border-top: 4px solid #666666;
+
+}
+#colorwhite:hover a{
+    color: #666666;
+}
+.dropdown-bar{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.dropdown-bar-con{
+    width:765px;
+    height: 40px;
+    margin: 0 auto;
+    padding-left: 235px;
+}
+.ul-dropdown-bar li{
+    float: left;
+    padding:0 10px;
+    height: 40px;
+}
+.ul-dropdown-bar li a{
+    display: block;
+    font-size: 14px;
+    color: #666666;
+    padding: 0 6px;
+    height: 37px;
+    line-height: 37px;
+}
+.dropdown-bar li+li:before{
+    content: "";
+    position: absolute;
+    margin: 10px 0 0 -10px;
+    width: 1px;
+    height: 15px;
+    background-color: #e0e0e0;
+}
+.ul-dropdown-bar .bk-active{
+    color: #ff9d00;
+    border-bottom: 3px solid #ff9d00;
+}
+.ul-dropdown-bar li:hover a{
+    color: #ff9d00;
+}
+.container{
+   width: 100%;
+   
+}
+.good-intro{
+    width: 1000px;
+    margin: 0 auto;
+    min-height: 400px;
+    position: relative;
+}
+.intro-l{
+    width: 440px;
+    height: 348px;
+    float: left;
+    position: relative;
+}
+.imgbox{
+    width: 400px;
+    height: 230px;
+    position: relative;
+}
+.imgbox img{
+    width: 100%;
+    height: 100%;
+}
+.collect{
+    width: 400px;
+    height: 30px;
+    margin-top: 20px;
+}
+.collect a{
+    color: #666666;
+    font-size: 20px;
+    line-height: 20px;
+
+}
+.collect a:first-child{
+    float: left;
+}
+.collect a:last-child{
+    float: right;
+}
+.i-collect{
+    display:block;
+    float: left;
+    width: 18px;
+    height: 18px;
+    margin: 0px 8px 0 0;
+    background:url(../images/detail-v4-sprites11.png) no-repeat 0 -40px;
+    background-size:200px auto ;
+}
+.i-fenxiang{
+    display:block;
+    float: left;
+    width: 18px;
+    height: 18px;
+    margin: 0px 8px 0 0;
+    background:url(../images/detail-v4-sprites11.png) no-repeat -20px -40px;
+    background-size:200px auto ;
+}
+.intro-r{
+    float:right;
+    width: 540px;
+    min-height:500px;
+}
+.intro-r h1{
+    display: inline;
+    font-size: 22px;
+    color: #333;
+    line-height: 32px;
+    font-weight: normal;
+}
+.intro-r h1 span{
+    border: 1px solid #80aaff;
+    color: #fff;
+    display:block;
+    float: left;
+    margin-right: 10px;
+    line-height: 18px;
+    padding: 0 6px;
+    background: #80aaff;
+    margin-top: 5px;
+    font-size: 12px;
+}
+.intro-r .g-label span{
+    display: block;
+    float: left;
+    margin-right: 10px;
+    border: 1px dashed #ff7000;
+    color: #ff7000;
+    line-height: 18px;
+    padding: 0 6px;
+    font-size: 12px;
+}
+.price-panel{
+    width: 500px;
+    height: 66px;
+    margin-top: 25px;
+    padding: 15px 20px;
+    background-color: #f6f6f6;
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 30px;
+}
+.price-panel .price{
+    float: left;
+    font-size: 34px;
+    color: #ff6f00;
+    font-family: "Tahoma";
+    font-weight: normal;
+}
+.price span{
+    float: left;
+    font-size: 12px;
+    color: #999;
+}
+.price-panel .dz_btn{
+    float: right;
+    width: 130px;
+    height: 50px;
+    background-color: #ff9d00;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    line-height: 50px;
+    cursor: pointer;
+}
+.infor-tips span{
+    float: left;
+    width: 70px;
+    padding-left: 5px;
+    color: #999;
+    font-size: 12px;
+    line-height: 20px;
+}
+.infor-tips p{
+    float: left;
+    padding-left: 5px;
+    color: #999;
+    font-size: 12px;
+    line-height: 20px;
+}
+//放大镜
+.imgbox span{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+    background-color: rgba(1,1,1,.5);
+    display: none;
+}
+.bigImgbox{
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    position: absolute;
+    left: 420px;
+    top: -50px;
+    border: 1px solid black;
+    display: none;
+}
+
+.bigImgbox img{
+    width: 800px;
+    height: 460px;
+    position: absolute;
+}
+//collect-box
+.collect-box{
+    position: absolute;
+    top:0;
+    right: -60px;
+    width: 40px;
+    height: 40px;
+    padding: 4px 6px;
+    background: url(../images/toolbars.png) #ff9d00 15px 15px no-repeat;
+    cursor: pointer;
+}
+.collect-box .goods-num{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    background: red;
+    color: #fff;
+    top: -10px;
+    left: 2px;
+    z-index: 1;
+}
+#ball{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #ff9d00;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    display: none;
+}

@@ -1,0 +1,221 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden; }
+
+.fullscreen-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-repeat: 50% 50%;
+  background-size: cover; }
+
+.register {
+  height: 468px;
+  width: 690px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -365px;
+  margin-top: -234px;
+  z-index: 99; }
+
+.register-box {
+  width: 690px;
+  height: 434px;
+  border-radius: 8px;
+  background-color: #ffffff; }
+
+.left-r {
+  position: relative;
+  width: 400px;
+  height: 434px;
+  float: left; }
+
+.right-r {
+  float: right;
+  width: 290px;
+  height: 434px;
+  box-sizing: border-box;
+  background: url(../images/img_download.png) no-repeat;
+  border-radius: 0 8px 8px 0;
+  position: relative; }
+
+.download-mfw {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  right: 12px;
+  bottom: 17px; }
+
+.to-register {
+  width: 140px;
+  margin: 10px auto;
+  border-radius: 15px;
+  background-color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+  padding: 4px 0;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4); }
+
+.to-register a {
+  color: #ffa800;
+  margin-left: 6px; }
+
+.top-bar {
+  padding: 0 60px;
+  border-bottom: 1px solid #f6f7f9;
+  display: flex; }
+
+.accunt-tab {
+  flex: 1;
+  text-align: center;
+  font-size: 18px;
+  font-family: PingFangSC-Regular,PingFang SC;
+  font-weight: 400;
+  color: #717376;
+  line-height: 25px;
+  padding: 40px 0 12px;
+  position: relative;
+  cursor: pointer; }
+
+.active:after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  margin-left: -25px;
+  width: 50px;
+  height: 4px;
+  background: #ff9500;
+  border-radius: 3px; }
+
+.content {
+  width: 306px;
+  height: 200px;
+  margin: 0 auto;
+  padding: 40px 20px 20px; }
+
+.sm-box {
+  display: block; }
+
+.content p {
+  font-size: 14px;
+  font-weight: 500;
+  color: #717376;
+  line-height: 20px;
+  text-align: center;
+  margin-bottom: 10px; }
+
+.content p a {
+  color: #4d97ff;
+  cursor: pointer; }
+
+.content img {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto; }
+
+.zh-box input {
+  width: 306px;
+  height: 28px;
+  border: 1px solid #d8d8d8;
+  font-size: 14px;
+  color: #666;
+  line-height: 28px;
+  padding: 6px 0 6px 12px;
+  box-shadow: 0 0 5px #fff;
+  outline: 0;
+  transition: box-shadow .25s linear 0s;
+  -webkit-transition: box-shadow .25s linear 0s;
+  border-color: #f6f7f9;
+  background: #f6f7f9;
+  border-radius: 6px;
+  font-family: PingFangSC-Medium,PingFang SC;
+  margin-bottom: 10px; }
+
+.zh-box {
+  display: none; }
+
+.zh-box p {
+  text-align: right;
+  color: #3f200f;
+  font-size: 12px; }
+
+.zh-box button {
+  width: 320px;
+  height: 42px;
+  border: 0;
+  background: linear-gradient(135deg, #ff9500 0, #ffa526 100%);
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+  line-height: 40px;
+  color: #fff;
+  cursor: pointer; }
+
+.work {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0 41px;
+  height: 97px;
+  border-radius: 0 0 0 8px;
+  margin: 0;
+  background: linear-gradient(270deg, rgba(246, 247, 249, 0.3) 0, #f6f7f9 100%); }
+
+.work p {
+  border: 0;
+  font-size: 14px;
+  font-family: PingFangSC-Regular,PingFang SC;
+  color: #94969a;
+  line-height: 20px;
+  padding: 12px 0; }
+
+.login-out a {
+  border-radius: 50%;
+  float: left;
+  text-indent: -999px;
+  width: 34px;
+  height: 34px;
+  margin-right: 32px;
+  cursor: pointer;
+  background-size: 34px;
+  background-repeat: no-repeat;
+  transition: all .3s; }
+
+.weibo-login {
+  background-image: url(http://css.mafengwo.net/passport/images/ic_weibo.png); }
+
+.qq-login {
+  background-image: url(http://css.mafengwo.net/passport/images/ic_qq.png); }
+
+.weixin-login {
+  background-image: url(http://css.mafengwo.net/passport/images/ic_weixin.png); }
+
+.alert {
+  width: 306px;
+  height: 28px;
+  border: 1px solid #d8d8d8;
+  border-radius: 4px;
+  padding: 6px;
+  line-height: 28px;
+  box-shadow: 0 0 5px #fff;
+  transition: box-shadow .25s linear 0s;
+  text-align: center;
+  display: block;
+  font-weight: bold;
+  margin-bottom: 10px;
+  display: none; }
+
+.active-false {
+  color: red; }
+
+.active-true {
+  color: green; }

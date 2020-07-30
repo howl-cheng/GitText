@@ -1,0 +1,18 @@
+console.log("加载成功")
+require.config({
+    paths:{
+        jquery:"jquery-3.5.1",
+        "jquery-cookie":"jquery.cookie",
+        collect:"collect",
+        goods:"goods"
+    },
+    shim:{
+        "jquery-cookie":["jquery"]
+    }
+});
+require(["collect"],function(collect){
+    collect.dataDownload();
+    collect.clearCar();
+    collect.removeCollect();
+    collect.numChange();
+})

@@ -1,0 +1,173 @@
+[  
+     {  "id":0,
+       "title":"本周热销榜",
+       "subtext":[
+        {
+          "id":0,
+          "img":"https://n1-q.mafengwo.net/s10/M00/53/A5/wKgBZ1jGZ4eAb2fCABFJkozZpec63.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+          "text":"北京直飞成都+都青/峨乐/九寨/黄龙6天自由行（含九寨沟门票/观光车+川剧变脸/熊猫基地/伴手礼3选1+专车接送机+天数可增减）",
+          "price":5980,
+          "shop":"Gogo旅行"
+        },
+        {
+        "id":1,
+        "img":"https://n1-q.mafengwo.net/s14/M00/2C/62/wKgE2l2MUeOANw15AASRIlmS5Dg15.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+        "text":"带你去醉美海岛·北京往返大溪地8天自由行（一手资源全年预售+可申请免签证明+24小时中文服务+可订喂食鲨鱼魔鬼鱼+泄湖游/TiKi利尼西亚舞蹈秀）",
+        "price": 18950,
+        "shop":"爱旅度假" 
+        },
+        {
+          
+        "id":2,
+        "img":"https://b1-q.mafengwo.net/s15/M00/78/84/CoUBGV4hP2aAQdz0AAHf9OOcbhc20.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+        "text":"北京往返厦门5天4晚自由行（鼓浪屿住1晚+曾厝垵/环岛路主题客栈任选+赠鼓浪屿船票+送植物园和索道门票+专车接送机+下单即赠攻略）",
+        "price": 1582,
+        "shop":"旅行定制狮" 
+        },
+        {
+           "id":3,
+          "img":"https://p1-q.mafengwo.net/s14/M00/D4/5F/wKgE2lz9-eCARB0AAArz6D88kq0361.gif?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+          "text":"【拒签全退】北京直飞日本东京+大阪6-7天半自助游（1-2天东京大阪自由人+四重玩法随心选+穿越关西寻奈良萌鹿+打卡网红富士山+温泉泡汤）",
+          "price": 5999,
+          "shop":"蚂蚁度假"
+        }
+       ]
+     },
+     {"id":1,
+      "title":"休假去哪儿",
+      "subtext":[
+       {
+         "id":4,
+         "img":"https://b1-q.mafengwo.net/s1/M00/7B/0D/wKgIC1t70kaAMB8jAAGsb927Pjg75.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+         "text":"北京直飞迪拜6天5晚自由行(网红A380双层巨无霸/市中心酒店/帆船酒店/棕榈岛亚特兰蒂斯任意住/VIP中文接送机/哈利法塔/冲沙/亚特兰蒂斯水世界/阿布扎比畅玩）",
+         "price":8280,
+         "shop":"丝路假期"
+       },
+       {
+       "id":5,
+       "img":"https://b1-q.mafengwo.net/s15/M00/98/90/CoUBGV2mseaACkidAAmUX7VWPoc721.gif?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+       "text":"哈进长出·北京直飞东北7天6晚自由行（暮色雪乡梦幻童话/长白温泉冰火两重天/赏镜泊冰瀑胜景/雪乡滑雪疯玩/体验雾凇不冻河漂流）",
+       "price": 6410,
+       "shop":"悠然轻户外" 
+       },
+       {
+         
+       "id":6,
+       "img":"https://b1-q.mafengwo.net/s14/M00/D8/F0/wKgE2l1Sh-yALWItAAOprzl3iGw03.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+       "text":"北京出发毛里求斯8天5晚自由行（实地考察精选酒店/私人泳池+体验玻璃潜水艇+赠1G流量卡+24H微管家服务+可订婚礼旅拍/高空跳伞）",
+       "price": 11980,
+       "shop":"奢游国际" 
+       },
+       {
+          "id":7,
+         "img":"https://p1-q.mafengwo.net/s14/M00/D4/5F/wKgE2lz9-eCARB0AAArz6D88kq0361.gif?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+         "text":"【拒签全退】北京直飞日本东京+大阪6-7天半自助游（1-2天东京大阪自由人+四重玩法随心选+穿越关西寻奈良萌鹿+打卡网红富士山+温泉泡汤）",
+         "price": 5999,
+         "shop":"蚂蚁度假"
+       }
+      ]
+    },
+    {"id":2,
+      "title":"和你去看海",
+      "subtext":[
+       {
+         "id":8,
+         "img":"https://n1-q.mafengwo.net/s12/M00/41/D0/wKgED1vyW6GATZyBACeCz1CYnVI107.gif?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+         "text":"6大免费福利任选·出海潜水/96h自驾车/自助晚餐·北京直飞三亚5天自由行（亲子/蜜月/网红多酒店可选+含早餐+接送机+旅拍照）",
+         "price":1959,
+         "shop":"海航国旅"
+       },
+       {
+       "id":9,
+       "img":"https://b1-q.mafengwo.net/s11/M00/88/13/wKgBEFrCK1KAOgptACr0nd5oq-E81.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+       "text":"春节亲子惠~即买即省·北京直飞马尔代夫奥静岛7天自由行（网红滑梯+白金一价全包送2个出海+所有餐厅用餐+酒类软饮任喝+可升级专属蜜月套房+儿童俱乐部）",
+       "price": 16500,
+       "shop":"趣旅" 
+       },
+       {
+         
+       "id":10,
+       "img":"https://b1-q.mafengwo.net/s10/M00/E9/DB/wKgBZ1l6wX6AA-m1AAmI5Sg5dLw58.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+       "text":"飞去热带的岛屿游泳·北京直飞三亚5天自由行(打卡亚特兰蒂斯+赠鹿回头公园门票+专车接送机）",
+       "price": 2170,
+       "shop":"旅行汇" 
+       },
+       {
+          "id":11,
+         "img":"https://n1-q.mafengwo.net/s11/M00/99/4E/wKgBEFsZBR6ADiHxAAOsoMIV-iE05.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+         "text":"寒假/春节早订优惠·北京直飞普吉7天自由行（3趟专车接送+双海滩搭配+赠Happy卡+Kingpower自助餐+亲子/蜜月/网红酒店专业推荐）",
+         "price": 4180,
+         "shop":"自优行"
+       }
+      ]
+    },
+    {"id":3,
+      "title":"邮轮度假",
+      "subtext":[
+       {
+         "id":12,
+         "img":"https://b1-q.mafengwo.net/s14/M00/E8/00/wKgE2l2Bn96AaieCABDZtW4Kj_A008.png?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+         "text":"【歌诗达邮轮赛琳娜号】天津往返日本6天5晚之旅（消年假的看这里+好礼相送+至高抵扣100元+跨年/春节航次+亲子爸妈游+日本免签+儿童梦幻乐园）",
+         "price":1899,
+         "shop":"北京春秋"
+       },
+       {
+       "id":13,
+       "img":"https://p1-q.mafengwo.net/s13/M00/F8/26/wKgEaVya5A6AFVwGAAD5X7DNG6A05.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+       "text":"【星梦邮轮探索梦号】天津出发日本5-6天游轮之旅（五一/端午低价预售+免签游日本+赠岸上观光+亲子爸妈游）",
+       "price": 2499,
+       "shop":"同城度假" 
+       },
+       {
+         
+       "id":14,
+       "img":"https://b1-q.mafengwo.net/s12/M00/F7/F0/wKgED1vb55uAJwrbAB5_-kWVHZ8428.gif?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+       "text":"特价甩卖【歌诗达邮轮赛琳娜号】天津往返日本5-6天经典游玩之旅（精品航期+尾单特卖+专业服务+舒心假期）",
+       "price": 3020,
+       "shop":"美途国旅" 
+       },
+       {
+          "id":15,
+         "img":"https://p1-q.mafengwo.net/s13/M00/AF/82/wKgEaVx1OUuAZr5kAASRkBjcMi469.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+         "text":"【星梦邮轮探索梦号】天津往返4晚5天邮轮之旅（免签出行+家庭出游+超值推荐）",
+         "price": 4599,
+         "shop":"小蚂蚁之旅"
+       }
+      ]
+    },
+    {"id":4,
+      "title":"扫货圣地",
+      "subtext":[
+       {
+         "id":16,
+         "img":"https://p1-q.mafengwo.net/s12/M00/DE/9B/wKgED1uq7UiAXSKLACF3OPVMDQA621.gif?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+         "text":"玩不一样·北京直飞迪拜6天5晚自由行(巨无霸A380/young超值套餐/轻奢宝马范儿/亲子全家游/阿玛尼自助/哈利法塔/沙漠冲沙/阿布扎比畅玩）",
+         "price":7380,
+         "shop":"丝绸之路"
+       },
+       {
+       "id":17,
+       "img":"https://p1-q.mafengwo.net/s15/M00/8F/A3/CoUBGV3qI5eAKIthAAIfU8Uts9897.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+       "text":"立减100元 北京直飞成都+九寨沟/毕棚沟/都江堰5天省心自由行（随心玩自由搭配+送成都专车一天+24小时管家服务+VIP量身设计旅游攻略）",
+       "price": 2860,
+       "shop":"大脚驿站" 
+       },
+       {
+         
+       "id":18,
+       "img":"https://p1-q.mafengwo.net/s14/M00/0E/AF/wKgE2l1fqgSACA0dAASb6kCxMgQ62.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+       "text":"北京往返东京+大阪/京都/镰仓7天6晚自由行（可代办签证+赠WiFi/保险+天数酒店随心配+行程规划+可预订接送机和包车）",
+       "price": 7999,
+       "shop":"享世界" 
+       },
+       {
+          "id":19,
+         "img":"https://n1-q.mafengwo.net/s13/M00/FE/42/wKgEaVxvrMKAP2P0AAFP68KSTGo00.jpeg?imageMogr2%2Fthumbnail%2F%21476x268r%2Fgravity%2FCenter%2Fcrop%2F%21476x268%2Fquality%2F100",
+         "text":"北京直飞上海4天3晚自由行（可定玩具总动员/乐园酒店+迪士尼一日门票+专车接送机+赠送保险）",
+         "price": 2170,
+         "shop":"旅行汇"
+       }
+      ]
+    }
+
+]

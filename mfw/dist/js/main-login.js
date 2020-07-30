@@ -1,0 +1,11 @@
+console.log("加载成功")
+require.config({
+    paths:{
+        jquery:"jquery-3.5.1",
+        login:"login",
+    }
+})
+require(["login"],function(lg){
+    lg.login();
+    lg.tab();
+})

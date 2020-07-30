@@ -1,0 +1,22 @@
+console.log("加载成功");
+require.config({
+    paths:{
+        jquery:"jquery-3.5.1",
+        "jquery-cookie":"jquery.cookie",
+        parabola:"parabola",
+        goods:"goods"
+    },
+    shim:{
+        "jquery-cookie":["jquery"],
+        parabola:{
+            exports:"_" ,
+        }       
+    },
+})
+require(["goods"],function(goods){
+    goods.download();
+    goods.magnifier();
+    goods.dz_btn();
+    goods.onload();
+    goods.collectBox();
+})
